@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8b2d338a984889178af3bbeea67020c79d01b65b",
+  "SCAN_LINK": "https://polygonscan.com/token/0x8b2d338a984889178af3bbeea67020c79d01b65b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Led Punks Classic Club",
+  "SYMBOL": "LPCC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/led-punks-classic-club",
+  "SHOW_BACKGROUND": false
+}
