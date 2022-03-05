@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x8b2d338a984889178af3bbeea67020c79d01b65b",
-  "SCAN_LINK": "https://polygonscan.com/token/0x8b2d338a984889178af3bbeea67020c79d01b65b",
+  "CONTRACT_ADDRESS": "0xFA75d37b8607Eff73F9f418663B7c006C8f7449b",
+  "SCAN_LINK": "https://polygonscan.com/address/0xFA75d37b8607Eff73F9f418663B7c006C8f7449b",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Led Punks Classic Club",
-  "SYMBOL": "LPCC",
-  "MAX_SUPPLY": 10000,
+  "NFT_NAME": "The Future Galaxy Warrios",
+  "SYMBOL": "IW",
+  "MAX_SUPPLY": 800,
   "WEI_COST": 500000000000000000,
   "DISPLAY_COST": 0.5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/led-punks-classic-club",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/thefuturegalaxywarrios/",
   "SHOW_BACKGROUND": false
 }
