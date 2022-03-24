@@ -14,9 +14,9 @@
   "DISPLAY_COST": 0.5,
   "GAS_LIMIT": 285000,
 },
-[
+
   { "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/thefuturegalaxywarrios/",
   "SHOW_BACKGROUND": false
 },
-]
+
