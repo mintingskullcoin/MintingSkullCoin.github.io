@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "Opensea",
-  "SCAN_LINK": "https://opensea.io/collection/thefuturegalaxywarrios/",
+  "CONTRACT_ADDRESS": "0xFA75d37b8607Eff73F9f418663B7c006C8f7449b",
+  "SCAN_LINK": "https://polygonscan.com/address/0xFA75d37b8607Eff73F9f418663B7c006C8f7449b",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -19,6 +19,6 @@
   "SHOW_BACKGROUND": false
 },
 
-0xFA75d37b8607Eff73F9f418663B7c006C8f7449b
 
-https://polygonscan.com/address/0xFA75d37b8607Eff73F9f418663B7c006C8f7449b
+
+
