@@ -6,18 +6,16 @@
     "SYMBOL": "Matic",
     "ID": 137
   },
-  
   "NFT_NAME": "The Future Galaxy Warrios",
   "SYMBOL": "IW",
   "MAX_SUPPLY": 800,
   "WEI_COST": 500000000000000000,
   "DISPLAY_COST": 0.5,
   "GAS_LIMIT": 285000,
-
-  { "MARKETPLACE": "Opensea",
+   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/thefuturegalaxywarrios/",
   "SHOW_BACKGROUND": false
-},
+}
 
 
 
