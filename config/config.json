@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xFA75d37b8607Eff73F9f418663B7c006C8f7449b",
-  "SCAN_LINK": "https://polygonscan.com/address/0xFA75d37b8607Eff73F9f418663B7c006C8f7449b",
+  "CONTRACT_ADDRESS": "0x63b3871dcD62Afd947337689713601040b16d2B2",
+  "SCAN_LINK": "https://polygonscan.com/address/0x63b3871dcd62afd947337689713601040b16d2b2",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -8,11 +8,11 @@
   },
   "NFT_NAME": "The Future Galaxy Warrios",
   "SYMBOL": "IW",
-  "MAX_SUPPLY": 800,
-  "WEI_COST": 500000000000000000,
-  "DISPLAY_COST": 0.5,
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/thefuturegalaxywarrios/",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polycube-punks-3d/",
   "SHOW_BACKGROUND": false
 }
