@@ -12,7 +12,7 @@
   "WEI_COST": 100000000000000000,
   "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
-  "maxMintAmount: 50,
+  "max_Mint_Amount": 50,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/polycube-punks-3d/",
   "SHOW_BACKGROUND": false
