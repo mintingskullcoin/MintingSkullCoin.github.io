@@ -15,5 +15,5 @@
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/polycube-punks-3d/",
-  "SHOW_BACKGROUND": true
+  "SHOW_BACKGROUND": false
 }
