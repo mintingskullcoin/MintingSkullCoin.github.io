@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x63b3871dcD62Afd947337689713601040b16d2B2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x63b3871dcD62Afd947337689713601040b16d2B2",
+  "CONTRACT_ADDRESS": "0x288556bfC8E92BF941C02c613698ff95cb78e626",
+  "SCAN_LINK": "https://polygonscan.com/token/0x288556bfc8e92bf941c02c613698ff95cb78e626",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "PolyCube Punks 3D",
-  "SYMBOL": "PCP3D",
+  "NFT_NAME": "Skull Coin",
+  "SYMBOL": "SkullCoin",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 1000000000000000000,
   "DISPLAY_COST": 1,
@@ -15,5 +15,5 @@
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/polycube-punks-3d/",
-  "SHOW_BACKGROUND": false
+  "SHOW_BACKGROUND": true
 }
